@@ -28,5 +28,29 @@ package object lib {
         }
         return w
     }
+/*
+    def LocalGradient(train : Array[(Double, Array[Double])],current : Array[Double],stepsize : Double, sizefeat : Int): Array[Double] = {
+        val m:Double=train.count() // card(train)
+        var w = Array.fill(sizefeat)(0.0)
+        var temp = current 
+        train.foreach{case (y,x)=> temp = sum(temp,(prodbyscal(2.0*(prods(w,x)-y),x)))
+            w = subtr(w,prodbyscal((stepsize/m),temp))
+        }
+        return w
+    }
 
+    def SGD(train: RDD[(Double, Array[Double])],stepsize : Double, n : Int, sizefeat : Int): Array[Double] = {
+        val m:Double=train.count() // card(train)
+        var w = Array.fill(sizefeat)(0.0)
+        val traingi = train.glom().zipWithIndex()
+        val np = traingi.count().toInt
+        for (j <- 1 to np)
+        {
+        // Gradient computation
+        //var temp = Array.fill(sizefeat)(0.0)
+            w = traingi.flatMap{case (p,i) => {if (i == j) {LocalGradient(p,w,stepsize,sizefeat)} else Array()}}.collect(0)
+        }
+        return w
+    }
+*/
 }

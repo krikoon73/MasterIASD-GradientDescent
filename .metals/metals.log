@@ -1357,3 +1357,215 @@ No more data in the client stdin, exiting...
 2020.12.04 23:38:02 INFO  compiling github (1 scala source)
 2020.12.04 23:38:02 WARN  there was one deprecation warning (since 2.12.6); re-run with -deprecation for details
 2020.12.04 23:38:02 INFO  time: compiled github in 0.76s
+2020.12.04 23:53:14 INFO  compiling github (1 scala source)
+2020.12.04 23:53:14 INFO  time: compiled github in 0.23s
+2020.12.04 23:53:20 INFO  compiling github (1 scala source)
+2020.12.04 23:53:20 INFO  time: compiled github in 0.24s
+2020.12.04 23:53:24 INFO  compiling github (1 scala source)
+2020.12.04 23:53:24 INFO  time: compiled github in 0.21s
+2020.12.04 23:53:28 INFO  compiling github (1 scala source)
+2020.12.04 23:53:28 INFO  time: compiled github in 0.24s
+2020.12.04 23:53:32 INFO  compiling github (1 scala source)
+2020.12.04 23:53:32 INFO  time: compiled github in 0.2s
+2020.12.04 23:53:40 INFO  compiling github (1 scala source)
+2020.12.04 23:53:40 INFO  time: compiled github in 0.21s
+2020.12.04 23:53:42 INFO  compiling github (1 scala source)
+2020.12.04 23:53:42 INFO  time: compiled github in 0.18s
+2020.12.04 23:53:47 INFO  compiling github (1 scala source)
+2020.12.04 23:53:47 INFO  time: compiled github in 0.2s
+2020.12.04 23:53:48 INFO  compiling github (1 scala source)
+2020.12.04 23:53:48 INFO  time: compiled github in 0.2s
+2020.12.04 23:53:54 INFO  compiling github (1 scala source)
+2020.12.04 23:53:54 INFO  time: compiled github in 0.23s
+2020.12.04 23:53:57 INFO  compiling github (1 scala source)
+2020.12.04 23:53:57 INFO  time: compiled github in 0.2s
+2020.12.04 23:53:59 INFO  compiling github (1 scala source)
+2020.12.04 23:53:59 INFO  time: compiled github in 0.2s
+2020.12.04 23:54:02 INFO  compiling github (1 scala source)
+2020.12.04 23:54:02 INFO  time: compiled github in 0.2s
+2020.12.04 23:54:05 INFO  compiling github (1 scala source)
+2020.12.04 23:54:05 INFO  time: compiled github in 0.19s
+2020.12.04 23:54:11 INFO  compiling github (1 scala source)
+2020.12.04 23:54:11 INFO  time: compiled github in 0.21s
+2020.12.04 23:54:14 INFO  compiling github (1 scala source)
+2020.12.04 23:54:14 INFO  time: compiled github in 0.2s
+2020.12.04 23:54:25 INFO  compiling github (1 scala source)
+2020.12.04 23:54:25 INFO  time: compiled github in 0.19s
+2020.12.04 23:54:28 INFO  compiling github (1 scala source)
+2020.12.04 23:54:28 INFO  time: compiled github in 0.19s
+2020.12.04 23:54:30 INFO  compiling github (1 scala source)
+2020.12.04 23:54:30 INFO  time: compiled github in 0.19s
+2020.12.04 23:54:32 INFO  compiling github (1 scala source)
+2020.12.04 23:54:32 INFO  time: compiled github in 0.2s
+2020.12.04 23:54:34 INFO  compiling github (1 scala source)
+2020.12.04 23:54:34 INFO  time: compiled github in 0.2s
+2020.12.04 23:54:35 INFO  compiling github (1 scala source)
+2020.12.04 23:54:35 INFO  time: compiled github in 0.21s
+2020.12.04 23:54:39 INFO  compiling github (1 scala source)
+2020.12.04 23:54:39 INFO  time: compiled github in 0.18s
+2020.12.04 23:55:07 INFO  compiling github (1 scala source)
+2020.12.04 23:55:07 INFO  time: compiled github in 0.2s
+2020.12.04 23:55:12 INFO  compiling github (1 scala source)
+2020.12.04 23:55:12 INFO  time: compiled github in 0.22s
+2020.12.04 23:55:13 INFO  compiling github (1 scala source)
+2020.12.04 23:55:13 INFO  time: compiled github in 0.25s
+2020.12.04 23:55:14 INFO  compiling github (1 scala source)
+2020.12.04 23:55:14 INFO  time: compiled github in 91ms
+2020.12.04 23:55:16 INFO  compiling github (1 scala source)
+2020.12.04 23:55:16 INFO  time: compiled github in 0.22s
+2020.12.04 23:55:18 INFO  compiling github (1 scala source)
+2020.12.04 23:55:18 INFO  time: compiled github in 0.21s
+2020.12.04 23:55:21 INFO  compiling github (1 scala source)
+2020.12.04 23:55:21 INFO  time: compiled github in 0.21s
+2020.12.04 23:55:25 INFO  compiling github (1 scala source)
+2020.12.04 23:55:25 INFO  time: compiled github in 0.2s
+2020.12.04 23:55:30 INFO  compiling github (1 scala source)
+2020.12.04 23:55:30 INFO  time: compiled github in 0.22s
+2020.12.04 23:55:33 INFO  compiling github (1 scala source)
+2020.12.04 23:55:33 INFO  time: compiled github in 0.21s
+2020.12.04 23:55:37 INFO  compiling github (1 scala source)
+2020.12.04 23:55:37 INFO  time: compiled github in 0.23s
+2020.12.04 23:55:40 INFO  compiling github (1 scala source)
+2020.12.04 23:55:40 INFO  time: compiled github in 0.23s
+2020.12.04 23:55:43 INFO  compiling github (1 scala source)
+2020.12.04 23:55:43 INFO  time: compiled github in 0.2s
+2020.12.04 23:55:45 INFO  compiling github (1 scala source)
+2020.12.04 23:55:45 INFO  time: compiled github in 0.19s
+2020.12.04 23:55:47 INFO  compiling github (1 scala source)
+2020.12.04 23:55:47 INFO  time: compiled github in 0.19s
+2020.12.04 23:55:48 INFO  compiling github (1 scala source)
+2020.12.04 23:55:48 INFO  time: compiled github in 0.23s
+2020.12.04 23:56:02 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:33:22: stale bloop error: not enough arguments for method count: (p: ((Double, Array[Double])) => Boolean)Int.
+Unspecified value parameter p.
+        val m:Double=train.count() // card(train)
+                     ^^^^^^^^^^^^^
+2020.12.04 23:56:02 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:51:38: stale bloop error: type mismatch;
+ found   : Array[?T]
+ required: TraversableOnce[?]
+Note that implicit conversions are not applicable because they are ambiguous:
+ both method booleanArrayOps in object Predef of type (xs: Array[Boolean])scala.collection.mutable.ArrayOps.ofBoolean
+ and method byteArrayOps in object Predef of type (xs: Array[Byte])scala.collection.mutable.ArrayOps.ofByte
+ are possible conversion functions from Array[?T] to TraversableOnce[?]
+            w = traingi.flatMap{case (p,i) => {if (i == j) {LocalGradient(p,w,stepsize,sizefeat)} else Array()}}.collect(0)
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2020.12.04 23:56:02 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:33:22: stale bloop error: not enough arguments for method count: (p: ((Double, Array[Double])) => Boolean)Int.
+Unspecified value parameter p.
+        val m:Double=train.count() // card(train)
+                     ^^^^^^^^^^^^^
+2020.12.04 23:56:02 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:51:38: stale bloop error: type mismatch;
+ found   : Array[?T]
+ required: TraversableOnce[?]
+Note that implicit conversions are not applicable because they are ambiguous:
+ both method booleanArrayOps in object Predef of type (xs: Array[Boolean])scala.collection.mutable.ArrayOps.ofBoolean
+ and method byteArrayOps in object Predef of type (xs: Array[Byte])scala.collection.mutable.ArrayOps.ofByte
+ are possible conversion functions from Array[?T] to TraversableOnce[?]
+            w = traingi.flatMap{case (p,i) => {if (i == j) {LocalGradient(p,w,stepsize,sizefeat)} else Array()}}.collect(0)
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2020.12.04 23:56:03 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:33:22: stale bloop error: not enough arguments for method count: (p: ((Double, Array[Double])) => Boolean)Int.
+Unspecified value parameter p.
+        val m:Double=train.count() // card(train)
+                     ^^^^^^^^^^^^^
+2020.12.04 23:56:03 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:51:38: stale bloop error: type mismatch;
+ found   : Array[?T]
+ required: TraversableOnce[?]
+Note that implicit conversions are not applicable because they are ambiguous:
+ both method booleanArrayOps in object Predef of type (xs: Array[Boolean])scala.collection.mutable.ArrayOps.ofBoolean
+ and method byteArrayOps in object Predef of type (xs: Array[Byte])scala.collection.mutable.ArrayOps.ofByte
+ are possible conversion functions from Array[?T] to TraversableOnce[?]
+            w = traingi.flatMap{case (p,i) => {if (i == j) {LocalGradient(p,w,stepsize,sizefeat)} else Array()}}.collect(0)
+                                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2020.12.04 23:56:03 INFO  compiling github (1 scala source)
+2020.12.04 23:56:03 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:03 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:03 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:55:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:03 INFO  time: compiled github in 0.17s
+2020.12.04 23:56:04 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:04 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:55:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:04 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:04 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:55:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:05 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:05 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:55:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:05 INFO  compiling github (1 scala source)
+2020.12.04 23:56:05 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:05 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:05 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:56:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:05 INFO  time: compiled github in 0.15s
+2020.12.04 23:56:06 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:06 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:56:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:06 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:06 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:56:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:06 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:06 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:56:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:06 INFO  compiling github (1 scala source)
+2020.12.04 23:56:06 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:06 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:06 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:56:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:06 INFO  time: compiled github in 0.15s
+2020.12.04 23:56:07 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:07 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:56:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:07 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:07 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:56:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:07 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:07 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:56:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:08 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:31:1: stale bloop error: unclosed comment
+/*
+^
+2020.12.04 23:56:08 INFO  /Users/ccompain/Documents/code/Dauphine/MasterIASD_scala_spark/cours/github/src/main/scala/org/krikoon73/lib/package.scala:56:2: stale bloop error: '}' expected but eof found.
+}
+ ^
+2020.12.04 23:56:09 INFO  compiling github (1 scala source)
+2020.12.04 23:56:10 INFO  time: compiled github in 1.45s

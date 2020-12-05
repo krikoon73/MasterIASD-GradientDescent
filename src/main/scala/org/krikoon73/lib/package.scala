@@ -22,15 +22,15 @@ package object lib {
         for (j <- 1 to n)
         {
             // Gradient computation
-            LoggerHelper.logWarn(s"ITERATION : ${j}")
+            //LoggerHelper.logWarn(s"ITERATION : ${j}")
             grad = train.map{case (y,x)=> (prodbyscal(2.0*(prods(w,x)-y),x))}.reduce(sum)
             w = subtr(w,prodbyscal((stepsize/m),grad))
         }
         return w
     }
-/*
+
     def LocalGradient(train : Array[(Double, Array[Double])],current : Array[Double],stepsize : Double, sizefeat : Int): Array[Double] = {
-        val m:Double=train.count() // card(train)
+        val m:Double=train.size // card(train)
         var w = Array.fill(sizefeat)(0.0)
         var temp = current 
         train.foreach{case (y,x)=> temp = sum(temp,(prodbyscal(2.0*(prods(w,x)-y),x)))
@@ -52,5 +52,5 @@ package object lib {
         }
         return w
     }
-*/
+
 }

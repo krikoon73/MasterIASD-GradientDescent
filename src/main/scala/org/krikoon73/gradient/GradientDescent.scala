@@ -45,6 +45,15 @@ object GradientDescent {
                 .text("Setting gradient descent features is required")
         }
 
+        def time[R](block: => (String, R)): R = {
+            val t0 = System.currentTimeMillis()
+            val result = block._2
+            val t1 = System.currentTimeMillis()
+            //println(block._1 + " took Elapsed time of " + (t1 - t0) + " Millis")
+            LoggerHelper.logWarn(s"${block._1} took Elapsed time of ${t1-t0} ms")
+            result
+        }
+
         parser.parse(args, CommandLineArgs()) match {
             case Some(config) => {
                 //val conf = new SparkConf().setAppName("TestGradientDescent").setMaster("local[*]")
@@ -55,10 +64,14 @@ object GradientDescent {
                 LoggerHelper.logWarn("STARTING PROGRAM")
                 val X = (1.0 to 10000).by(2).toArray
                 val dtrain = sc.parallelize(X.map(x=>(5*x+2,Array(x,1.0))))
-        
-                LoggerHelper.logWarn(s"dtrain : ${dtrain.count()}")
+                
+                val loading = time("Loading dtrain",dtrain.count())
+                LoggerHelper.logWarn(s"Number of elements for dtrain : ${loading}")
+                LoggerHelper.logWarn(s"Number of interations : ${config.iterations}")
                 //LoggerHelper.logWarn(s"Result : ${s.time(BaseGradient(dtrain,0.00000000001,10000,2).foreach(println))}")
-                LoggerHelper.logWarn(s"Result : ${BaseGradient(dtrain,config.stepsize,config.iterations,config.sizefeat).foreach(println)}")
+                val baseResult = time("Simple Gradient Descent", BaseGradient(dtrain,config.stepsize,config.iterations,config.sizefeat))
+                //LoggerHelper.logWarn(s"Result : ${BaseGradient(dtrain,config.stepsize,config.iterations,config.sizefeat).foreach(println)}")
+                LoggerHelper.logWarn(s"Result : ${baseResult.foreach(println)}")
             } 
             case None => System.exit(1)
         }

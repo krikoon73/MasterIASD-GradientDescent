@@ -1,5 +1,7 @@
 .vscode/
 .metals/
 .bloop/
+.ammonite/
+metals.sbt
 project/
 target/
